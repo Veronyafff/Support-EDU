@@ -39,5 +39,5 @@
 
 - Основные команды для взаимодействия с ФС 
 
-![Команды](команды.png)
+![Команды](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Qua367GLVzKUcTO3NH23CnQy5vLfSQjUqVoVO2lYFMMoBLZZou2EMaylxKXt5I-sM_E79qkBOKLGA8CIVwEgYEOBneUCVx_prJ4Ocb7jvDhEJHe9Xkv7H7wVJIcoY_5Avd5Cr3NHOBE/s1600/linux+command+cheatsheet.png)
 
